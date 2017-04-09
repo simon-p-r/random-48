@@ -1,6 +1,6 @@
 {
   "name": "random-48",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "nativie random number generator",
   "main": "lib/index.js",
   "directories": {
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/simon-p-r/rand.git"
+    "url": "git+ssh://git@github.com/simon-p-r/random-48.git"
   },
   "keywords": [
     "random",
@@ -23,9 +23,9 @@
   "author": "simon-p-r",
   "license": "BSD-3-Clause",
   "bugs": {
-    "url": "https://github.com/simon-p-r/rand/issues"
+    "url": "https://github.com/simon-p-r/random-48/issues"
   },
-  "homepage": "https://github.com/simon-p-r/rand#readme",
+  "homepage": "https://github.com/simon-p-r/random-48#readme",
   "devDependencies": {
     "code": "^4.0.0",
     "lab": "^13.0.1"
