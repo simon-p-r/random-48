@@ -1,6 +1,6 @@
 #include <node.h>
 
-#include "rand.h"
+#include "rand-48.h"
 
 using namespace v8;
 

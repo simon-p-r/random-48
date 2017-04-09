@@ -18,7 +18,7 @@ BOOL WINAPI CryptGenRandom(
 
 */
 
-#include "rand.h"
+#include "rand-48.h"
 
 uint64_t getRandomNumber(void)
 {
