@@ -1,5 +1,5 @@
 {
-  "name": "rand",
+  "name": "random-48",
   "version": "0.0.1",
   "description": "nativie random number generator",
   "main": "lib/index.js",
