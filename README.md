@@ -8,7 +8,7 @@
 *random-48* is a Node.js binding for Windows CryptGenRandom function
 
 ## Installing
-You can install *random* as a dependency of your project using NPM like
+You can install *random-48* as a dependency of your project using NPM like
 so, provided you have met the dependencies listed below.
 ```
 > npm install --save random-48
@@ -27,7 +27,7 @@ so, provided you have met the dependencies listed below.
 
 
 ```javascript
-const Generate = require('rand');
+const Generate = require('random-48');
 const random = Generate.random();
 // random now contains a random 48 bit integer
 
