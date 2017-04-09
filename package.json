@@ -1,0 +1,36 @@
+{
+  "name": "rand",
+  "version": "0.0.1",
+  "description": "nativie random number generator",
+  "main": "lib/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "install": "cmake-js compile",
+    "rebuild": "cmake-js rebuild",
+    "test": "lab -a code -v -t 100 -L"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/simon-p-r/rand.git"
+  },
+  "keywords": [
+    "random",
+    "number",
+    "generator"
+  ],
+  "author": "simon-p-r",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/simon-p-r/rand/issues"
+  },
+  "homepage": "https://github.com/simon-p-r/rand#readme",
+  "devDependencies": {
+    "code": "^4.0.0",
+    "lab": "^13.0.1"
+  },
+  "dependencies": {
+    "cmake-js": "^3.4.1"
+  }
+}
