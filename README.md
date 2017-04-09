@@ -1,5 +1,7 @@
 # random-48
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/simon-p-r/random-48.svg)](https://greenkeeper.io/)
+
 [![Windows Build Status](https://img.shields.io/appveyor/ci/simon-p-r/random-48/master.svg?label=windows&style=flat-square&maxAge=2592000)](https://ci.appveyor.com/project/simon-p-r/random-48)  
 [![Current Version](https://img.shields.io/npm/v/random-48.svg?maxAge=1000)](https://www.npmjs.org/package/random-48)
 [![dependency Status](https://img.shields.io/david/simon-p-r/random-48.svg?maxAge=1000)](https://david-dm.org/simon-p-r/random-48)
