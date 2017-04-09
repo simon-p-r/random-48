@@ -1,6 +1,6 @@
 {
   "name": "random-48",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "nativie random number generator",
   "main": "lib/index.js",
   "directories": {
